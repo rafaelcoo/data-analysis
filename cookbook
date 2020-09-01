@@ -1,0 +1,2 @@
+merge df = pd.merge(df1,df2,how='left', on=[''])
+concat df = pd.concat([df1,df2],axis=0,sort=False)
